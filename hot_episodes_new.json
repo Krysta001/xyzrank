@@ -2,36 +2,20 @@
   "data": {
     "episodes": [
       {
-        "title": "李诞：我是如何寻找快乐的？",
-        "podcastID": "95056a558dbca7d8c67f2b1beabe08e9",
-        "podcastName": "晚点在场",
-        "logoURL": "https://xyzrank.justinbot.com/Fg2vihs0xZiaC4xVG0WhOy65_VNa.jpg@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/6868da6c60f8f77d40f56dfd",
-        "playCount": 45178,
-        "commentCount": 176,
-        "subscription": 5115,
-        "duration": 45,
-        "postTime": "2025-07-06T02:00:00.000Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 2,
-        "openRate": 8.832453567937439,
-        "lastReleaseDateDayCount": 13.729594490740741
-      },
-      {
         "title": "Vol.11 谁炸穿了充电宝行业丨对话锂电池专家墨柯",
         "podcastID": "0681a9d56a65efb1b4cb4aff499d2b52",
         "podcastName": "热搜时代",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/f0/ed/fdf0ed84-9217-3561-6af0-f3d76761e3c7/mza_7708005565422602089.png/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6870cb7260f8f77d40ff5587",
-        "playCount": 25983,
-        "commentCount": 68,
+        "playCount": 26257,
+        "commentCount": 69,
         "subscription": 2828,
         "duration": 38,
         "postTime": "2025-07-11T08:30:41.188Z",
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 10,
-        "openRate": 9.187765205091937,
-        "lastReleaseDateDayCount": 8.458284444444445
+        "openRate": 9.284653465346535,
+        "lastReleaseDateDayCount": 9.458301944444445
       },
       {
         "title": "08.脱口秀女演员的话题真的沉重吗？",
@@ -39,15 +23,15 @@
         "podcastName": "我的普通女友",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/74/a8/d874a817-836b-4598-b22e-2f08b47efe24/mza_3900928066908005759.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6874ef9e60f8f77d40753129",
-        "playCount": 13869,
-        "commentCount": 169,
+        "playCount": 14357,
+        "commentCount": 182,
         "subscription": 10823,
         "duration": 70,
         "postTime": "2025-07-14T12:11:14.368Z",
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 14,
-        "openRate": 1.2814376790169084,
-        "lastReleaseDateDayCount": 5.305122638888889
+        "openRate": 1.3265268409867874,
+        "lastReleaseDateDayCount": 6.305140138888889
       },
       {
         "title": "12.100位大厂人眼中的互联网这三年",
@@ -55,15 +39,15 @@
         "podcastName": "仅供参考reference",
         "logoURL": "https://xyzrank.justinbot.com/Frvo94b1iQV1kAe2A-JuOKerAgKT.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/6874d3b893fd2d72b81e341a",
-        "playCount": 8319,
+        "playCount": 8498,
         "commentCount": 34,
         "subscription": 7657,
         "duration": 64,
         "postTime": "2025-07-14T09:59:11.573Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 12,
-        "openRate": 1.086456836881285,
-        "lastReleaseDateDayCount": 5.396821655092593
+        "openRate": 1.1098341386966175,
+        "lastReleaseDateDayCount": 6.396839155092593
       },
       {
         "title": "10.暑期酒店涨价 + 免税消费红利！这俩行业藏着多少赚钱秘密？",
@@ -71,15 +55,15 @@
         "podcastName": "深度求真",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/91/dc/13/91dc13af-12e4-f4e7-c332-4280ec32c2ba/mza_5479908892134511645.png/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6870d7ec93fd2d72b8b039a0",
-        "playCount": 6375,
+        "playCount": 6423,
         "commentCount": 4,
         "subscription": 4126,
         "duration": 49,
         "postTime": "2025-07-11T09:24:15.810Z",
         "primaryGenreName": "商务",
         "totalEpisodesCount": 14,
-        "openRate": 1.5450799806107611,
-        "lastReleaseDateDayCount": 8.421078171296296
+        "openRate": 1.5567135239941832,
+        "lastReleaseDateDayCount": 9.421095671296296
       },
       {
         "title": "对谈项飙：年轻人为什么不爱参加毕业典礼了？｜新世相播客002",
@@ -87,31 +71,15 @@
         "podcastName": "新世相",
         "logoURL": "https://xyzrank.justinbot.com/Fm0BwldIYQtR7ZDhccazELtI882V.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/686cbf3593fd2d72b81b23dc",
-        "playCount": 6315,
+        "playCount": 6372,
         "commentCount": 47,
         "subscription": 1502,
         "duration": 56,
         "postTime": "2025-07-08T06:53:03.996Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 2,
-        "openRate": 4.20439414114514,
-        "lastReleaseDateDayCount": 11.526076018518518
-      },
-      {
-        "title": "Vol.010 | 【高考季特辑】王艺妍妤：高考志愿只凭“喜欢”够吗？她的答案是：不惧万难！",
-        "podcastID": "f26c74f366dfacacf80b997716967f37",
-        "podcastName": "Tiger Legal Talks",
-        "logoURL": "https://xyzrank.justinbot.com/FmjKh5_YbxjXGbXNIu0jgvSyC6_H.jpg@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/68678e0593fd2d72b88257bf",
-        "playCount": 4350,
-        "commentCount": 45,
-        "subscription": 4833,
-        "duration": 68,
-        "postTime": "2025-07-06T10:00:00.000Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 8,
-        "openRate": 0.9000620732464308,
-        "lastReleaseDateDayCount": 13.396261157407407
+        "openRate": 4.2423435419440745,
+        "lastReleaseDateDayCount": 12.526093518518518
       },
       {
         "title": "S1E9 走进城市的肌理：与唐克扬对谈空间、建筑与文化的连接",
@@ -119,15 +87,15 @@
         "podcastName": "王府井一号｜和你一起探索艺术的世界",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/a8/a7/77a8a7fd-39f4-4df5-8200-ffe79f023da8/mza_17130317736139886867.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6874bf2293fd2d72b819ee21",
-        "playCount": 3826,
+        "playCount": 3894,
         "commentCount": 9,
         "subscription": 4219,
         "duration": 76,
         "postTime": "2025-07-14T08:30:28.049Z",
         "primaryGenreName": "艺术",
         "totalEpisodesCount": 14,
-        "openRate": 0.9068499644465513,
-        "lastReleaseDateDayCount": 5.458436516203704
+        "openRate": 0.9229675278502014,
+        "lastReleaseDateDayCount": 6.458454016203704
       },
       {
         "title": "013.人生地不熟，哪能不犯错",
@@ -135,15 +103,15 @@
         "podcastName": "咱们女的",
         "logoURL": "https://xyzrank.justinbot.com/Fk-qlcy2SNnb24vBcjdidxnRGmOe.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/686aa29893fd2d72b8d331b8",
-        "playCount": 3343,
+        "playCount": 3379,
         "commentCount": 97,
         "subscription": 5539,
         "duration": 71,
         "postTime": "2025-07-06T23:30:00.000Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 11,
-        "openRate": 0.6035385448636938,
-        "lastReleaseDateDayCount": 12.833761157407407
+        "openRate": 0.6100379129806824,
+        "lastReleaseDateDayCount": 13.833778657407407
       },
       {
         "title": "08 新消费们火不过三年？聊聊通缩时代的情绪价值｜对话付鹏",
@@ -151,15 +119,15 @@
         "podcastName": "武财人",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/dc/53/1ddc5364-0709-ef2f-9c74-0e3551974a57/mza_6277787023700599925.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/6874d91593fd2d72b81f374f",
-        "playCount": 2895,
-        "commentCount": 55,
+        "playCount": 3085,
+        "commentCount": 63,
         "subscription": 1912,
         "duration": 52,
         "postTime": "2025-07-14T10:19:54.961Z",
         "primaryGenreName": "商务",
         "totalEpisodesCount": 12,
-        "openRate": 1.514121338912134,
-        "lastReleaseDateDayCount": 5.382430590277778
+        "openRate": 1.6134937238493723,
+        "lastReleaseDateDayCount": 6.382448090277777
       },
       {
         "title": "「EP 14」关于国足、王钰栋、网络认知和所有人期待的未来",
@@ -167,31 +135,15 @@
         "podcastName": "两线之间 BTW the Lines",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/25/04/a52504e1-4a4c-7c0a-ebd3-2ee7e7b4a836/mza_2247941791463199246.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/687068b693fd2d72b899d00b",
-        "playCount": 1529,
+        "playCount": 1586,
         "commentCount": 24,
         "subscription": 2598,
         "duration": 78,
         "postTime": "2025-07-11T01:30:33.342Z",
         "primaryGenreName": "体育",
         "totalEpisodesCount": 26,
-        "openRate": 0.5885296381832179,
-        "lastReleaseDateDayCount": 8.750041921296296
-      },
-      {
-        "title": "晓声007｜饶晓志×任素汐×程怡×王瑞璞：于无声处蓄江河，“无名之辈”自有“否极泰来”",
-        "podcastID": "5e17add61d554d369f1caa2e65961808",
-        "podcastName": "晓声蛐蛐",
-        "logoURL": "https://xyzrank.justinbot.com/FgraNxt7PEhCuTNTnVusUa9qna7u.jpg@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/6867a71793fd2d72b88794f9",
-        "playCount": 1245,
-        "commentCount": 154,
-        "subscription": 4203,
-        "duration": 64,
-        "postTime": "2025-07-06T04:00:00.000Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 9,
-        "openRate": 0.29621698786581013,
-        "lastReleaseDateDayCount": 13.646261157407407
+        "openRate": 0.6104695919938414,
+        "lastReleaseDateDayCount": 9.750059421296296
       },
       {
         "title": "#13.酒吧行业也太被高估了",
@@ -199,15 +151,15 @@
         "podcastName": "Sonia的个人播客",
         "logoURL": "https://xyzrank.justinbot.com/FjKI00kP8J7UIyRMoSz8R5m9u2sw.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/686f479393fd2d72b875a797",
-        "playCount": 1163,
+        "playCount": 1197,
         "commentCount": 36,
         "subscription": 3241,
         "duration": 33,
         "postTime": "2025-07-10T04:55:17.033Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 11,
-        "openRate": 0.35883986423943226,
-        "lastReleaseDateDayCount": 9.60786957175926
+        "openRate": 0.3693304535637149,
+        "lastReleaseDateDayCount": 10.60788707175926
       },
       {
         "title": "吹风受寒上火中暑干燥，你的病是哪儿来的？",
@@ -215,24 +167,40 @@
         "podcastName": "电子阿胶",
         "logoURL": "https://xyzrank.justinbot.com/FqKy4yPSqPWv8Mt2UldoYXeI0ymy.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/6871994d93fd2d72b8c123cb",
-        "playCount": 1025,
+        "playCount": 1057,
         "commentCount": 27,
         "subscription": 2252,
         "duration": 48,
         "postTime": "2025-07-11T23:11:29.385Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 8,
-        "openRate": 0.45515097690941386,
-        "lastReleaseDateDayCount": 7.846615497685185
+        "openRate": 0.46936056838365897,
+        "lastReleaseDateDayCount": 8.846632997685186
+      },
+      {
+        "title": "重新爬一座夏天的山 | 014 北京百花山",
+        "podcastID": "b5324b5d68dbf255fb6d117c179e7bcd",
+        "podcastName": "处处闻啼鸟",
+        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9d/b3/28/9db328f8-da11-c0bb-4ab1-288a31cdd493/mza_1066088663847708827.png/100x100bb.jpg",
+        "link": "https://www.xiaoyuzhoufm.com/episode/686e718f60f8f77d40af7175",
+        "playCount": 1042,
+        "commentCount": 36,
+        "subscription": 4404,
+        "duration": 43,
+        "postTime": "2025-07-09T13:51:03.897Z",
+        "primaryGenreName": "休闲",
+        "totalEpisodesCount": 20,
+        "openRate": 0.2366030881017257,
+        "lastReleaseDateDayCount": 11.235816886574074
       }
     ],
     "medianValues": {
-      "playCount": 4088,
-      "commentCount": 46,
-      "interactiveRate": 0.011265138574991111,
-      "openRate": 0.9966534006639182,
-      "duration": 60,
-      "lastReleaseDateDayCount": 8.60416318287037
+      "playCount": 3636.5,
+      "commentCount": 36,
+      "interactiveRate": 0.013904575813600599,
+      "openRate": 1.0164008332734094,
+      "duration": 54,
+      "lastReleaseDateDayCount": 9.439698807870371
     }
   },
   "type": 3
